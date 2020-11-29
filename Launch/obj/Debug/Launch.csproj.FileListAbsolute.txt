@@ -1,0 +1,12 @@
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\bin\Debug\Launch.exe.config
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\bin\Debug\Launch.exe
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\bin\Debug\Launch.pdb
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\bin\Debug\WebDriver.dll
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\bin\Debug\WebDriver.Support.dll
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\bin\Debug\WebDriver.xml
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\bin\Debug\WebDriver.Support.xml
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\obj\Debug\Launch.csprojAssemblyReference.cache
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\obj\Debug\Launch.csproj.CoreCompileInputs.cache
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\obj\Debug\Launch.csproj.CopyComplete
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\obj\Debug\Launch.exe
+C:\Users\ztashfee\source\repos\WooliesSpecFlow\Launch\obj\Debug\Launch.pdb

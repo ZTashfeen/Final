@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ztashfee\\source\\repos\\WooliesSpecFlow\\WooliesSpecFlow\\WooliesSpecFlow.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ztashfee\\source\\repos\\WooliesSpecFlow\\WooliesSpecFlow\\WooliesSpecFlow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ztashfee\\source\\repos\\WooliesSpecFlow\\WooliesSpecFlow\\WooliesSpecFlow.csproj",
+        "projectName": "WooliesSpecFlow",
+        "projectPath": "C:\\Users\\ztashfee\\source\\repos\\WooliesSpecFlow\\WooliesSpecFlow\\WooliesSpecFlow.csproj",
+        "packagesPath": "C:\\Users\\ztashfee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ztashfee\\source\\repos\\WooliesSpecFlow\\WooliesSpecFlow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ztashfee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "\\\\Zero-NugetServer-BIABTRIX01.biabau.ingdirect.intranet\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "SpecFlow.MsTest": {
+              "target": "Package",
+              "version": "[3.5.5, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.4.243, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
